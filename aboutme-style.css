@@ -1,0 +1,25 @@
+
+body {
+background-color: #808088;
+}
+.moods{
+    height: 200px;
+    width: 200px;
+}
+h1, h2{
+    color: rgb(22, 22, 121); 
+}
+p{
+    display: inline-block;
+}
+p,ul,ol{
+    color: honeydew;
+    
+}
+em{
+    color: yellow;   
+  
+}
+a{
+    color: red;
+}
